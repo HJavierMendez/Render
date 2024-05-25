@@ -1,0 +1,7 @@
+[][Dserver][C
+headless = True[D[D[D[D[D[D[D[D[D[D[D[C[C[C[C[C[C[C[C[C[C[C
+port = [F[B[C[C[C[C[C[C 1000
+
+[][Dbrowser]
+serverAddress = "0.0.0.0"
+serverPort = 1000[D[D[D[D[D[D[A[D[D[D[D[A[A[A[A[C[B[C[C[C[B[B[B[B[C[C[C[C[C[C 
